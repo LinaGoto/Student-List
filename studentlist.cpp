@@ -3,6 +3,12 @@
 
 using namespace std;
 
+/*
+Lina Goto
+10/16/23
+Create a database with structs. You could add, print and delete.
+*/
+
 const int MAX_NAMELEN = 41;
 const int MAX_STUDENTS = 51;
 
